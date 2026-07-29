@@ -12,7 +12,7 @@ Sistema web para la gestión de inventarios de una ferretería, permitiendo el c
 
 ## Objetivo general
 
-Desarrollar una aplicación web funcional que permita a una ferretería gestionar su inventario de manera eficiente, automatizando el registro de productos, el control de existencias y la generación de reportes.
+Diseñar la documentación y los prototipos de un sistema de control de inventario para ferretería, aplicando los principios de Ingeniería de Software para modelar la solución.
 
 ## Integrantes del equipo
 
@@ -42,4 +42,4 @@ Desarrollar una aplicación web funcional que permita a una ferretería gestiona
 
 ## Estado actual del proyecto
 
-📌 **En planificación.** Se ha definido el alcance del proyecto, los requisitos funcionales y no funcionales, y se ha creado la estructura inicial del repositorio. Pendiente: desarrollo del modelo de datos e implementación del backend.
+📌 **Completado.** Documentación finalizada con requisitos, cronograma, prototipos modelados en Draw.io y presentación de exposición.
