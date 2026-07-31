@@ -44,10 +44,12 @@ Diseñar la documentación y los prototipos de un sistema de control de inventar
 
 ## Entregables
 
-La carpeta `entregables/` contiene los documentos finales del proyecto:
+La carpeta `entregables/` contiene los documentos finales de cada incremento del proyecto:
 
-- **Taller_Semana15_Grupo12.pdf** — Documentación colaborativa y prototipado (Google Docs + Figma)
-- **Guion_Exposicion_Grupo12.pdf** — Guión palabra por palabra para la exposición oral
+- **Entregable1_Propuesta_Grupo12_Ferreteria.pdf** — Incremento 1: Propuesta, RF/RNF, WBS, RACI
+- **entregable2_grupo12_ferreteria.pdf** — Incremento 2: Arquitectura 3 capas, diagramas UML, modelo E-R
+- **Entregable3_Grupo12_Ferreteria.pdf** — Incremento 3: Prototipado responsive en Figma
+- **Entregable4_Grupo12_Ferreteria.pdf** — Incremento 4: Pruebas, riesgos, documentación final
 
 ## Presentación
 
