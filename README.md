@@ -39,8 +39,7 @@ Diseñar la documentación y los prototipos de un sistema de control de inventar
 | MySQL | 8 | Base de datos relacional |
 | Bootstrap | 5 | Framework frontend |
 | Git / GitHub | — | Control de versiones |
-| Trello | — | Gestión ágil de tareas |
-| Draw.io / Figma | — | Diagramas UML y prototipado |
+| Draw.io | — | Diagramas UML y prototipado |
 | Visual Studio Code | — | IDE de desarrollo |
 
 ## Entregables
